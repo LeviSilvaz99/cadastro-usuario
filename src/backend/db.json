@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "firstname": "dina",
+      "lastname": "silva",
+      "age": "50",
+      "scholing": "superior",
+      "skills": "html",
+      "id": 1
+    }
+  ]
+}
